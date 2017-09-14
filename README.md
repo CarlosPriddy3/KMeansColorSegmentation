@@ -1,5 +1,5 @@
 This was a program I wrote before I had changed majors to Computer Science as part of a research project at Fort Valley State University
-The program was one of the very first projects I had ever worked on. As such it is extremely inefficient and clumsily written.
+The program was one of the very first projects I had ever worked on. As such it is extremely inefficient and clumsily written. GUI was written by my colleage Eddie Priddy.
 
 KMeansColorSegmentation
 
